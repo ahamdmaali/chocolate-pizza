@@ -1,12 +1,13 @@
 #logo{
-width:80px;
-height:40px ;
+width:100px;
+height:50px ;
 margin-top:20px;
-margin-left: 170px;
+
 }
 .img{
 float: right;
 margin-top:20px;
+
 }
 
 h1{
@@ -21,19 +22,69 @@ margin-left: 170px;
 p{
 margin-left: 170px;
 font-family: Georgia, 'Times New Roman', Times, serif;
+color:dimgray;
+margin-right: 180px;
 }
 ul{
 background-image:url(https://github.com/LTUC/amman-201d18/blob/main/class-10/choco-pizza-lab/lab-assets/list-bg.png?raw=true);
 margin-left: 170px;
+margin-right: 200px;
+
 }
+li{
+    color:peru;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 .li{
-margin-left:290px ;
+    position:relative;
+margin-left:300px ;
 }
 #van{
     margin-left: 170px;
     float: left;
+
 }
 #logfooter{
 margin-left: 50%;
 position: relative;
+}
+nav .img{
+    position:relative;
+}
+li{
+    
+    list-style:inside  square;
+}
+br{
+border: gray;
+}
+#br{
+    border: gray;
+    
+    
+}
+button{
+    float:right;
+    margin-right: 200px;
+    border-style: solid;
+    border-color: maroon;
+    background-color: maroon;
+    font-size: 22px;
+    
+    color: white;
+    font-family: monospace;
+    
+}
+#log{
+    margin-top:20px;
+margin-left: 170px;
+}
+#fb{
+    float: right;
+margin-top:20px;
+margin-right: 280px;
+}
+#copyrights{
+    margin-left: 550px;
 }
