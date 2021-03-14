@@ -12,7 +12,7 @@ margin-top:20px;
 
 h1{
 padding:50px;
-font-family: Arial, Helvetica, sans-serif;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 margin-left: 170px;
 }
 #pizza{
@@ -24,6 +24,8 @@ margin-left: 170px;
 font-family: Georgia, 'Times New Roman', Times, serif;
 color:dimgray;
 margin-right: 180px;
+text-align:justify;
+text-justify: inter-word;
 }
 ul{
 background-image:url(https://github.com/LTUC/amman-201d18/blob/main/class-10/choco-pizza-lab/lab-assets/list-bg.png?raw=true);
@@ -60,7 +62,9 @@ br{
 border: gray;
 }
 #br{
+    border: solid;
     border: gray;
+    border-radius: 10px;
     
     
 }
